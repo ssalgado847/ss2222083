@@ -14,7 +14,7 @@ using namespace std;
  //Execution begins here
 int main(int argc, char** argv)
 {
- char letter='x';
+ char letter = 'x';
 
 ///Output results
  cout << "   " << letter << endl;
